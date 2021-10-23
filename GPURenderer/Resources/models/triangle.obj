@@ -1,0 +1,17 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib triangle.mtl
+g default
+v 0.000000 0.000000 1.000000
+v 1.000000 0.000000 0.000000
+v 0.000000 1.000000 0.000000
+vt 0.626409 0.751908
+vt 0.591842 0.717341
+vt 0.500000 0.837500
+vn 0.000000 0.000000 1.000000
+vn 1.000000 0.000000 0.000000
+vn 0.000000 1.000000 0.000000
+s off
+g pCylinder1
+usemtl initialShadingGroup
+f 1/2/1 2/1/2 3/3/3
