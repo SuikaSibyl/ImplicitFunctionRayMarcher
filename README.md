@@ -22,10 +22,24 @@ Please use VS2019 to open the sln project and build.
 
 # 2. Results
 
+![ImplicitFunctionRayMarcher/cow.png at main · SuikaSibyl/ImplicitFunctionRayMarcher (github.com)](https://github.com/SuikaSibyl/ImplicitFunctionRayMarcher/blob/main/Figs/cow.png)
 
+
+
+![ImplicitFunctionRayMarcher/cow.png at main · SuikaSibyl/ImplicitFunctionRayMarcher (github.com)](https://github.com/SuikaSibyl/ImplicitFunctionRayMarcher/blob/main/Figs/glass_heart.png)
+
+
+
+![ImplicitFunctionRayMarcher/cow.png at main · SuikaSibyl/ImplicitFunctionRayMarcher (github.com)](https://github.com/SuikaSibyl/ImplicitFunctionRayMarcher/blob/main/Figs/rabbit.png)
+
+
+
+![ImplicitFunctionRayMarcher/cow.png at main · SuikaSibyl/ImplicitFunctionRayMarcher (github.com)](https://github.com/SuikaSibyl/ImplicitFunctionRayMarcher/blob/main/Figs/steiner.png)
 
 
 
 Morphing Animation:
 
-<iframe src="//player.bilibili.com/player.html?aid=933726032&bvid=BV1MT4y1Z7UR&cid=429257109&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+[Implicit Function Ray Marching Demo - bilibili](https://www.bilibili.com/video/BV1MT4y1Z7UR?spm_id_from=333.999.0.0)
